@@ -10,7 +10,9 @@ After some research, I found [this great post about PlantUML](https://blog.anoff
 
 ### 1. A PlantUML editor
 
-Visit the online editor [http://www.plantuml.com/plantuml/uml/](http://www.plantuml.com/plantuml/uml/) and write your UML diagram with code. This project contains an example [example-uml.iuml](example-uml.iuml):
+Visit the online editor [http://www.plantuml.com/plantuml/uml/](http://www.plantuml.com/plantuml/uml/) and write your UML diagram with code & use a cheat sheet like this: https://ogom.github.io/draw_uml/plantuml/
+
+This project contains an example [example-uml.iuml](example-uml.iuml):
 
 ```
 @startuml
